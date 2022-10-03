@@ -16,5 +16,5 @@ This simple project will help you understand and work with:
 ## Helpful Links
 - [React Top-Level API](https://reactjs.org/docs/react-api.html)
 
-https://img.shields.io/twitter/follow/_amos_kyalo
+[](https://img.shields.io/twitter/follow/_amos_kyalo)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/dj-stripe/dj-stripe)
