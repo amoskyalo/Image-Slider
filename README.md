@@ -7,9 +7,9 @@ A courasel is a UI element that displays information in a set of elements that w
 ## Learning Objective
 This simple project will help you understand and work with:
 - React Top Level APIs used in this project
-    Eg: - React.cloneElement()
-        - React.Children.count(children)
-        - React.Children.map()
+  - React.cloneElement()
+  - React.Children.count(children)
+  - React.Children.map()
 - How react props work in passing data from parent to children and vise versa
 - Using React Hooks such as useState() and useEffect()
 
