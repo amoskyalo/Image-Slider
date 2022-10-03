@@ -17,4 +17,4 @@ This simple project will help you understand and work with:
 - [React Top-Level API](https://reactjs.org/docs/react-api.html)
 
 ![Twitter Follow ](https://img.shields.io/twitter/follow/_amos_kyalo)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/dj-stripe/dj-stripe)
+![[Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/dj-stripe/dj-stripe)
